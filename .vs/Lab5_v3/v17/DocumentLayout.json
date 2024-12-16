@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab5_v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B71943E-58C0-4EAE-9980-2D7D15C2819A}|Task\\Task.csproj|d:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u043E\u043E\u043F\\lab5_v3\\task\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B71943E-58C0-4EAE-9980-2D7D15C2819A}|Task\\Task.csproj|solutionrelative:task\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B71943E-58C0-4EAE-9980-2D7D15C2819A}|Task\\Task.csproj|d:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u043E\u043E\u043F\\lab5_v3\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B71943E-58C0-4EAE-9980-2D7D15C2819A}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B71943E-58C0-4EAE-9980-2D7D15C2819A}|Task\\Task.csproj|d:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u043E\u043E\u043F\\lab5_v3\\task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B71943E-58C0-4EAE-9980-2D7D15C2819A}|Task\\Task.csproj|solutionrelative:task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B71943E-58C0-4EAE-9980-2D7D15C2819A}|Task\\Task.csproj|D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab5_v3\\task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B71943E-58C0-4EAE-9980-2D7D15C2819A}|Task\\Task.csproj|solutionrelative:task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab5_v3\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab5_v3\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:04:49.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab5_v3\\Task\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Task\\Form1.Designer.cs",
+              "ToolTip": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab5_v3\\Task\\Form1.Designer.cs",
+              "RelativeToolTip": "Task\\Form1.Designer.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwCgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:02:12.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab5_v3\\Task\\Form1.cs",
+              "RelativeDocumentMoniker": "Task\\Form1.cs",
+              "ToolTip": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab5_v3\\Task\\Form1.cs",
+              "RelativeToolTip": "Task\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:55:50.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab5_v3\\Task\\Form1.cs",
+              "RelativeDocumentMoniker": "Task\\Form1.cs",
+              "ToolTip": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab5_v3\\Task\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Task\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:54:48.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
